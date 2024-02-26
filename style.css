@@ -37,3 +37,41 @@ TYP
 ul {
     list-style: none;
 }
+
+
+/* -------------
+IMG
+----------------*/
+
+.ms-img {
+    height: 250px;
+}
+
+
+/*---------
+ LINE-STAR 
+ -----------*/
+
+
+.ms-line {
+    width: 50px;
+    height: 3px;
+    border-radius: 2px;
+}
+
+.ms-md-line {
+    width: 80px;
+
+}
+
+.ms-contact input {
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 0;
+}
+
+.form-floating textarea {
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 0;
+}
